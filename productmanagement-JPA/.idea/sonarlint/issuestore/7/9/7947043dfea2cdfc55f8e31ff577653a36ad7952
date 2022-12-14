@@ -1,0 +1,19 @@
+
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8†¾’„Ñ0
+7	java:S131""Add a default case to this switch.(û«‚ú
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(è‘Ÿ²üÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ª•ªå
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(°áÓÒ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(”ÈçÛùÿÿÿÿ
+`
+java:S11555">Use isEmpty() to check whether the collection is empty or not.(›”¢°şÿÿÿÿ8ªŸ“„Ñ0
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(®òéÈûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÙÄ‰ïÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Ÿ“Ãƒ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÍşÖå
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ÙÔìå
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ıÇ¯œ
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(¾’›á8™¾’„Ñ0
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ÁÔÖÒøÿÿÿÿ8š¾’„Ñ0
+e
+java:S1128"CRemove this unused import 'com.digipay.model.entity.DigitalDevice'.(Ì¾â¼úÿÿÿÿ8äé”„Ñ0

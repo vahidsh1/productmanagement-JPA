@@ -1,0 +1,17 @@
+
+g	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ª÷„Ñ0
+7	java:S131""Add a default case to this switch.(û«‚ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ù”ö
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(‹¶•þøÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(°áÓÒ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(”ÈçÛùÿÿÿÿ
+Y
+java:S11552">Use isEmpty() to check whether the collection is empty or not.(Ý¶“öüÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ôˆœñúÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ÙÄ‰ïÿÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ÿ¬Ó›
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(ë¿î
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ô¥Ïÿûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ýÇ¯œ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¾’›á
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(¿×¸Éùÿÿÿÿ

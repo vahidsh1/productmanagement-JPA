@@ -1,0 +1,9 @@
+
+ƒ
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "orderList".(‘­íîøÿÿÿÿ8×ˆ¾ƒÑ0
+ƒ
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "orderList".(‰úÉªüÿÿÿÿ8—…ıĞ0
+`
+java:S1128">Remove this unused import 'com.digipay.model.entity.Customer'.(İÆ¾ïşÿÿÿÿ8‚³¾ƒÑ0
+c
+java:S1128"FRemove this unused import 'com.digipay.model.entity.ElectricalDevice'.(öğÔÜ8ƒ³¾ƒÑ0

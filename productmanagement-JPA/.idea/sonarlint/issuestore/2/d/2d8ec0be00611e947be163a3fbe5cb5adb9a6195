@@ -1,0 +1,7 @@
+
+y
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "digitalList".(Áõ’š
+e
+java:S1128"CRemove this unused import 'com.digipay.model.entity.DigitalDevice'.(Ì¾â¼úÿÿÿÿ8ñİ˜ıĞ0
+b
+java:S1128"ERemove this unused import 'com.digipay.repository.DigitalRepository'.(”†•°8ñİ˜ıĞ0
